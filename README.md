@@ -1,6 +1,6 @@
 # Bank-Marketing-prediction
 This model predicts (with given parameters), has the client subscribed a term deposit. This is just one jupyter notebook and includes all preprocessing, model and compilation.
-<h1> Here are the attributes of this problem </h1>
+<h1> Attributes of the problem </h1>
 1 - age (numeric) <br>
 2 - job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')<br>
 3 - marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)<br>
@@ -26,7 +26,7 @@ Yet, the duration is not known before a call is performed. Also, after the end o
 19 - euribor3m: euribor 3 month rate - daily indicator (numeric)<br>
 20 - nr.employed: number of employees - quarterly indicator (numeric)<br>
 
-Output variable (desired target):<br>
+<h2>Output variable (desired target):</h2> <br>
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')<br>
 
 <h1> RESULTS </h1>
