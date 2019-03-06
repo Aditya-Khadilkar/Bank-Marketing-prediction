@@ -30,4 +30,4 @@ Output variable (desired target):<br>
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')<br>
 
 <h1> RESULTS </h1>
-After training for 20 epochs, The model achieved 88.73 % accuracy on training set and 88.9% on test set.
+After training for 20 epochs, The model achieved <b>88.73 %</b> accuracy on training set and <b>88.9%</b> on test set.
